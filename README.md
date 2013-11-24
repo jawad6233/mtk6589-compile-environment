@@ -1,9 +1,8 @@
-#this compile environment is for FaeaF2S,May also work for other MTK6589 devices.
+#this compile environment is for FaeaF2S
+#May also work for other MTK6589 devices.
 #http://www.faeamobile.com/
-
 #System Requirement:
 #ubuntu-12.04.3-server-amd64
-
 #Hardware Requirement:
 #memory >=4GB, disk free space >50GB
 
